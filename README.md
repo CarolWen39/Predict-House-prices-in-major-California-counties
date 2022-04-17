@@ -1,6 +1,6 @@
 # Predict-House-prices-in-major-California-counties
 
-
+#### Features
 The project aims to provide predictions a fair estimate of how much houses are worth based on the surrounding enviroment conditions. The features we used are shown below.
 1) Gas well
 2) Oil well
@@ -10,7 +10,7 @@ The project aims to provide predictions a fair estimate of how much houses are w
 6) Covid-19 positive test cases
 
 
-Counties:
+#### Counties:
 - Los Angeles
 - Orange
 - Riverside
