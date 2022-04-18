@@ -11,19 +11,19 @@ import base64
 github_url = 'https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties'
 
 st.set_page_config(page_title="Team Makapaka", page_icon="random", layout="centered", initial_sidebar_state="auto")
-data = pd.read_csv('data.csv')
+data = pd.read_csv('https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties/UI/data.csv')
 
 data['Year'] = data.Date.str.slice(0, 4)
 
 county = ['Los Angeles', 'Orange', 'Riverside', 'Sacramento', 'San Bernardino', 'San Diego', 'San Francisco',
           'Santa Barbara', 'Santa Clara', 'Santa Cruz']
 
-file_ = open("makapaka_logo.gif", "rb")
+file_ = open("https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties/UI/makapaka_logo.gif", "rb")
 contents = file_.read()
 data_url = base64.b64encode(contents).decode("utf-8")
 file_.close()
 
-prediction = pd.read_csv('Prediction.csv')
+prediction = pd.read_csv('https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties/UI/Prediction.csv')
 
 
 def get_chart(data):
