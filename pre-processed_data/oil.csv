@@ -1,0 +1,2245 @@
+,County,Date,Count
+0,Kern,2011-01,115
+1,Kern,2011-02,146
+2,Kern,2011-03,133
+3,Kern,2011-04,128
+4,Kern,2011-05,137
+5,Kern,2011-06,147
+6,Kern,2011-07,120
+7,Kern,2011-08,141
+8,Kern,2011-09,145
+9,Kern,2011-10,143
+10,Kern,2011-11,157
+11,Kern,2011-12,141
+12,Kern,2012-01,172
+13,Kern,2012-02,142
+14,Kern,2012-03,144
+15,Kern,2012-04,141
+16,Kern,2012-05,148
+17,Kern,2012-06,134
+18,Kern,2012-07,159
+19,Kern,2012-08,150
+20,Kern,2012-09,143
+21,Kern,2012-10,173
+22,Kern,2012-11,122
+23,Kern,2012-12,119
+24,Kern,2013-01,153
+25,Kern,2013-02,156
+26,Kern,2013-03,160
+27,Kern,2013-04,152
+28,Kern,2013-05,162
+29,Kern,2013-06,129
+30,Kern,2013-07,148
+31,Kern,2013-08,129
+32,Kern,2013-09,129
+33,Kern,2013-10,141
+34,Kern,2013-11,130
+35,Kern,2013-12,118
+36,Kern,2014-01,160
+37,Kern,2014-02,144
+38,Kern,2014-03,174
+39,Kern,2014-04,179
+40,Kern,2014-05,181
+41,Kern,2014-06,179
+42,Kern,2014-07,190
+43,Kern,2014-08,160
+44,Kern,2014-09,150
+45,Kern,2014-10,135
+46,Kern,2014-11,157
+47,Kern,2014-12,123
+48,Kern,2015-01,94
+49,Kern,2015-02,91
+50,Kern,2015-03,94
+51,Kern,2015-04,118
+52,Kern,2015-05,108
+53,Kern,2015-06,83
+54,Kern,2015-07,88
+55,Kern,2015-08,123
+56,Kern,2015-09,111
+57,Kern,2015-10,118
+58,Kern,2015-11,101
+59,Kern,2015-12,69
+60,Kern,2016-01,36
+61,Kern,2016-02,37
+62,Kern,2016-03,30
+63,Kern,2016-04,39
+64,Kern,2016-05,37
+65,Kern,2016-06,22
+66,Kern,2016-07,20
+67,Kern,2016-08,17
+68,Kern,2016-09,27
+69,Kern,2016-10,31
+70,Kern,2016-11,35
+71,Kern,2016-12,22
+72,Kern,2017-01,34
+73,Kern,2017-02,35
+74,Kern,2017-03,41
+75,Kern,2017-04,23
+76,Kern,2017-05,59
+77,Kern,2017-06,46
+78,Kern,2017-07,43
+79,Kern,2017-08,47
+80,Kern,2017-09,54
+81,Kern,2017-10,47
+82,Kern,2017-11,65
+83,Kern,2017-12,55
+84,Kern,2018-01,46
+85,Kern,2018-02,49
+86,Kern,2018-03,30
+87,Kern,2018-04,37
+88,Kern,2018-05,55
+89,Kern,2018-06,38
+90,Kern,2018-07,53
+91,Kern,2018-08,33
+92,Kern,2018-09,47
+93,Kern,2018-10,55
+94,Kern,2018-11,26
+95,Kern,2018-12,38
+96,Kern,2019-01,34
+97,Kern,2019-02,29
+98,Kern,2019-03,36
+99,Kern,2019-04,38
+100,Kern,2019-05,39
+101,Kern,2019-06,40
+102,Kern,2019-07,21
+103,Kern,2019-08,25
+104,Kern,2019-09,19
+105,Kern,2019-10,12
+106,Kern,2019-11,27
+107,Kern,2019-12,11
+108,Kern,2020-01,10
+109,Kern,2020-02,25
+110,Kern,2020-03,21
+111,Kern,2020-04,4
+112,Kern,2020-05,6
+113,Kern,2020-06,2
+114,Kern,2020-07,4
+115,Kern,2020-08,10
+116,Kern,2020-09,12
+117,Kern,2020-10,23
+118,Kern,2020-11,22
+119,Kern,2020-12,8
+120,Kern,2021-01,15
+121,Kern,2021-02,20
+122,Kern,2021-03,34
+123,Kern,2021-04,24
+124,Kern,2021-05,12
+125,Kern,2021-06,5
+126,Kern,2021-07,10
+127,Kern,2021-08,11
+128,Kern,2021-09,17
+129,Kern,2021-10,7
+130,Kern,2021-11,5
+131,Kern,2021-12,1
+132,San Benito,2011-01,0
+133,San Benito,2011-02,0
+134,San Benito,2011-03,0
+135,San Benito,2011-04,0
+136,San Benito,2011-05,0
+137,San Benito,2011-06,0
+138,San Benito,2011-07,0
+139,San Benito,2011-08,0
+140,San Benito,2011-09,0
+141,San Benito,2011-10,0
+142,San Benito,2011-11,1
+143,San Benito,2011-12,0
+144,San Benito,2012-01,0
+145,San Benito,2012-02,0
+146,San Benito,2012-03,0
+147,San Benito,2012-04,0
+148,San Benito,2012-05,0
+149,San Benito,2012-06,0
+150,San Benito,2012-07,0
+151,San Benito,2012-08,0
+152,San Benito,2012-09,0
+153,San Benito,2012-10,0
+154,San Benito,2012-11,0
+155,San Benito,2012-12,0
+156,San Benito,2013-01,0
+157,San Benito,2013-02,0
+158,San Benito,2013-03,0
+159,San Benito,2013-04,0
+160,San Benito,2013-05,0
+161,San Benito,2013-06,0
+162,San Benito,2013-07,0
+163,San Benito,2013-08,0
+164,San Benito,2013-09,0
+165,San Benito,2013-10,0
+166,San Benito,2013-11,0
+167,San Benito,2013-12,0
+168,San Benito,2014-01,1
+169,San Benito,2014-02,0
+170,San Benito,2014-03,0
+171,San Benito,2014-04,0
+172,San Benito,2014-05,0
+173,San Benito,2014-06,0
+174,San Benito,2014-07,0
+175,San Benito,2014-08,0
+176,San Benito,2014-09,0
+177,San Benito,2014-10,0
+178,San Benito,2014-11,0
+179,San Benito,2014-12,0
+180,San Benito,2015-01,0
+181,San Benito,2015-02,0
+182,San Benito,2015-03,0
+183,San Benito,2015-04,0
+184,San Benito,2015-05,0
+185,San Benito,2015-06,0
+186,San Benito,2015-07,0
+187,San Benito,2015-08,0
+188,San Benito,2015-09,0
+189,San Benito,2015-10,0
+190,San Benito,2015-11,0
+191,San Benito,2015-12,0
+192,San Benito,2016-01,0
+193,San Benito,2016-02,0
+194,San Benito,2016-03,0
+195,San Benito,2016-04,0
+196,San Benito,2016-05,0
+197,San Benito,2016-06,0
+198,San Benito,2016-07,0
+199,San Benito,2016-08,0
+200,San Benito,2016-09,0
+201,San Benito,2016-10,0
+202,San Benito,2016-11,0
+203,San Benito,2016-12,0
+204,San Benito,2017-01,0
+205,San Benito,2017-02,0
+206,San Benito,2017-03,0
+207,San Benito,2017-04,0
+208,San Benito,2017-05,0
+209,San Benito,2017-06,0
+210,San Benito,2017-07,0
+211,San Benito,2017-08,0
+212,San Benito,2017-09,0
+213,San Benito,2017-10,0
+214,San Benito,2017-11,0
+215,San Benito,2017-12,0
+216,San Benito,2018-01,0
+217,San Benito,2018-02,0
+218,San Benito,2018-03,0
+219,San Benito,2018-04,0
+220,San Benito,2018-05,0
+221,San Benito,2018-06,0
+222,San Benito,2018-07,0
+223,San Benito,2018-08,0
+224,San Benito,2018-09,0
+225,San Benito,2018-10,0
+226,San Benito,2018-11,0
+227,San Benito,2018-12,0
+228,San Benito,2019-01,0
+229,San Benito,2019-02,0
+230,San Benito,2019-03,0
+231,San Benito,2019-04,0
+232,San Benito,2019-05,0
+233,San Benito,2019-06,0
+234,San Benito,2019-07,0
+235,San Benito,2019-08,0
+236,San Benito,2019-09,0
+237,San Benito,2019-10,0
+238,San Benito,2019-11,0
+239,San Benito,2019-12,0
+240,San Benito,2020-01,0
+241,San Benito,2020-02,0
+242,San Benito,2020-03,0
+243,San Benito,2020-04,0
+244,San Benito,2020-05,0
+245,San Benito,2020-06,0
+246,San Benito,2020-07,0
+247,San Benito,2020-08,0
+248,San Benito,2020-09,0
+249,San Benito,2020-10,0
+250,San Benito,2020-11,0
+251,San Benito,2020-12,0
+252,San Benito,2021-01,0
+253,San Benito,2021-02,0
+254,San Benito,2021-03,0
+255,San Benito,2021-04,0
+256,San Benito,2021-05,0
+257,San Benito,2021-06,0
+258,San Benito,2021-07,0
+259,San Benito,2021-08,0
+260,San Benito,2021-09,0
+261,San Benito,2021-10,0
+262,San Benito,2021-11,0
+263,San Benito,2021-12,0
+264,Fresno,2011-01,3
+265,Fresno,2011-02,9
+266,Fresno,2011-03,10
+267,Fresno,2011-04,5
+268,Fresno,2011-05,0
+269,Fresno,2011-06,1
+270,Fresno,2011-07,1
+271,Fresno,2011-08,5
+272,Fresno,2011-09,5
+273,Fresno,2011-10,3
+274,Fresno,2011-11,2
+275,Fresno,2011-12,0
+276,Fresno,2012-01,1
+277,Fresno,2012-02,3
+278,Fresno,2012-03,7
+279,Fresno,2012-04,7
+280,Fresno,2012-05,5
+281,Fresno,2012-06,4
+282,Fresno,2012-07,1
+283,Fresno,2012-08,0
+284,Fresno,2012-09,1
+285,Fresno,2012-10,0
+286,Fresno,2012-11,0
+287,Fresno,2012-12,2
+288,Fresno,2013-01,7
+289,Fresno,2013-02,5
+290,Fresno,2013-03,1
+291,Fresno,2013-04,3
+292,Fresno,2013-05,11
+293,Fresno,2013-06,7
+294,Fresno,2013-07,7
+295,Fresno,2013-08,4
+296,Fresno,2013-09,1
+297,Fresno,2013-10,5
+298,Fresno,2013-11,10
+299,Fresno,2013-12,7
+300,Fresno,2014-01,3
+301,Fresno,2014-02,5
+302,Fresno,2014-03,11
+303,Fresno,2014-04,7
+304,Fresno,2014-05,4
+305,Fresno,2014-06,10
+306,Fresno,2014-07,7
+307,Fresno,2014-08,6
+308,Fresno,2014-09,1
+309,Fresno,2014-10,0
+310,Fresno,2014-11,0
+311,Fresno,2014-12,7
+312,Fresno,2015-01,8
+313,Fresno,2015-02,5
+314,Fresno,2015-03,7
+315,Fresno,2015-04,10
+316,Fresno,2015-05,8
+317,Fresno,2015-06,0
+318,Fresno,2015-07,1
+319,Fresno,2015-08,0
+320,Fresno,2015-09,0
+321,Fresno,2015-10,0
+322,Fresno,2015-11,2
+323,Fresno,2015-12,4
+324,Fresno,2016-01,4
+325,Fresno,2016-02,0
+326,Fresno,2016-03,0
+327,Fresno,2016-04,1
+328,Fresno,2016-05,0
+329,Fresno,2016-06,1
+330,Fresno,2016-07,1
+331,Fresno,2016-08,0
+332,Fresno,2016-09,0
+333,Fresno,2016-10,1
+334,Fresno,2016-11,0
+335,Fresno,2016-12,0
+336,Fresno,2017-01,0
+337,Fresno,2017-02,0
+338,Fresno,2017-03,0
+339,Fresno,2017-04,0
+340,Fresno,2017-05,1
+341,Fresno,2017-06,0
+342,Fresno,2017-07,1
+343,Fresno,2017-08,1
+344,Fresno,2017-09,1
+345,Fresno,2017-10,0
+346,Fresno,2017-11,0
+347,Fresno,2017-12,1
+348,Fresno,2018-01,1
+349,Fresno,2018-02,4
+350,Fresno,2018-03,2
+351,Fresno,2018-04,1
+352,Fresno,2018-05,1
+353,Fresno,2018-06,0
+354,Fresno,2018-07,0
+355,Fresno,2018-08,1
+356,Fresno,2018-09,8
+357,Fresno,2018-10,3
+358,Fresno,2018-11,7
+359,Fresno,2018-12,1
+360,Fresno,2019-01,0
+361,Fresno,2019-02,2
+362,Fresno,2019-03,4
+363,Fresno,2019-04,2
+364,Fresno,2019-05,5
+365,Fresno,2019-06,1
+366,Fresno,2019-07,0
+367,Fresno,2019-08,0
+368,Fresno,2019-09,0
+369,Fresno,2019-10,0
+370,Fresno,2019-11,0
+371,Fresno,2019-12,2
+372,Fresno,2020-01,3
+373,Fresno,2020-02,3
+374,Fresno,2020-03,4
+375,Fresno,2020-04,1
+376,Fresno,2020-05,0
+377,Fresno,2020-06,0
+378,Fresno,2020-07,1
+379,Fresno,2020-08,0
+380,Fresno,2020-09,0
+381,Fresno,2020-10,0
+382,Fresno,2020-11,0
+383,Fresno,2020-12,0
+384,Fresno,2021-01,0
+385,Fresno,2021-02,0
+386,Fresno,2021-03,0
+387,Fresno,2021-04,0
+388,Fresno,2021-05,0
+389,Fresno,2021-06,0
+390,Fresno,2021-07,0
+391,Fresno,2021-08,0
+392,Fresno,2021-09,0
+393,Fresno,2021-10,0
+394,Fresno,2021-11,0
+395,Fresno,2021-12,0
+396,Kings,2011-01,0
+397,Kings,2011-02,0
+398,Kings,2011-03,0
+399,Kings,2011-04,1
+400,Kings,2011-05,0
+401,Kings,2011-06,2
+402,Kings,2011-07,1
+403,Kings,2011-08,0
+404,Kings,2011-09,1
+405,Kings,2011-10,1
+406,Kings,2011-11,0
+407,Kings,2011-12,0
+408,Kings,2012-01,1
+409,Kings,2012-02,0
+410,Kings,2012-03,1
+411,Kings,2012-04,0
+412,Kings,2012-05,1
+413,Kings,2012-06,0
+414,Kings,2012-07,1
+415,Kings,2012-08,0
+416,Kings,2012-09,0
+417,Kings,2012-10,0
+418,Kings,2012-11,0
+419,Kings,2012-12,0
+420,Kings,2013-01,0
+421,Kings,2013-02,1
+422,Kings,2013-03,0
+423,Kings,2013-04,0
+424,Kings,2013-05,2
+425,Kings,2013-06,0
+426,Kings,2013-07,1
+427,Kings,2013-08,0
+428,Kings,2013-09,0
+429,Kings,2013-10,0
+430,Kings,2013-11,0
+431,Kings,2013-12,0
+432,Kings,2014-01,0
+433,Kings,2014-02,0
+434,Kings,2014-03,1
+435,Kings,2014-04,0
+436,Kings,2014-05,0
+437,Kings,2014-06,4
+438,Kings,2014-07,0
+439,Kings,2014-08,0
+440,Kings,2014-09,3
+441,Kings,2014-10,2
+442,Kings,2014-11,1
+443,Kings,2014-12,0
+444,Kings,2015-01,0
+445,Kings,2015-02,0
+446,Kings,2015-03,0
+447,Kings,2015-04,0
+448,Kings,2015-05,0
+449,Kings,2015-06,0
+450,Kings,2015-07,0
+451,Kings,2015-08,0
+452,Kings,2015-09,0
+453,Kings,2015-10,0
+454,Kings,2015-11,0
+455,Kings,2015-12,0
+456,Kings,2016-01,0
+457,Kings,2016-02,0
+458,Kings,2016-03,0
+459,Kings,2016-04,0
+460,Kings,2016-05,0
+461,Kings,2016-06,0
+462,Kings,2016-07,0
+463,Kings,2016-08,0
+464,Kings,2016-09,0
+465,Kings,2016-10,0
+466,Kings,2016-11,0
+467,Kings,2016-12,0
+468,Kings,2017-01,0
+469,Kings,2017-02,0
+470,Kings,2017-03,0
+471,Kings,2017-04,2
+472,Kings,2017-05,1
+473,Kings,2017-06,0
+474,Kings,2017-07,1
+475,Kings,2017-08,0
+476,Kings,2017-09,1
+477,Kings,2017-10,0
+478,Kings,2017-11,0
+479,Kings,2017-12,0
+480,Kings,2018-01,0
+481,Kings,2018-02,1
+482,Kings,2018-03,0
+483,Kings,2018-04,0
+484,Kings,2018-05,0
+485,Kings,2018-06,0
+486,Kings,2018-07,0
+487,Kings,2018-08,0
+488,Kings,2018-09,0
+489,Kings,2018-10,0
+490,Kings,2018-11,0
+491,Kings,2018-12,0
+492,Kings,2019-01,0
+493,Kings,2019-02,0
+494,Kings,2019-03,0
+495,Kings,2019-04,0
+496,Kings,2019-05,0
+497,Kings,2019-06,0
+498,Kings,2019-07,0
+499,Kings,2019-08,0
+500,Kings,2019-09,0
+501,Kings,2019-10,0
+502,Kings,2019-11,0
+503,Kings,2019-12,0
+504,Kings,2020-01,0
+505,Kings,2020-02,0
+506,Kings,2020-03,0
+507,Kings,2020-04,0
+508,Kings,2020-05,0
+509,Kings,2020-06,0
+510,Kings,2020-07,0
+511,Kings,2020-08,0
+512,Kings,2020-09,0
+513,Kings,2020-10,0
+514,Kings,2020-11,0
+515,Kings,2020-12,0
+516,Kings,2021-01,0
+517,Kings,2021-02,0
+518,Kings,2021-03,0
+519,Kings,2021-04,0
+520,Kings,2021-05,0
+521,Kings,2021-06,0
+522,Kings,2021-07,0
+523,Kings,2021-08,0
+524,Kings,2021-09,0
+525,Kings,2021-10,0
+526,Kings,2021-11,0
+527,Kings,2021-12,0
+528,Santa Barbara,2011-01,0
+529,Santa Barbara,2011-02,1
+530,Santa Barbara,2011-03,3
+531,Santa Barbara,2011-04,7
+532,Santa Barbara,2011-05,0
+533,Santa Barbara,2011-06,0
+534,Santa Barbara,2011-07,0
+535,Santa Barbara,2011-08,0
+536,Santa Barbara,2011-09,1
+537,Santa Barbara,2011-10,1
+538,Santa Barbara,2011-11,3
+539,Santa Barbara,2011-12,2
+540,Santa Barbara,2012-01,1
+541,Santa Barbara,2012-02,2
+542,Santa Barbara,2012-03,1
+543,Santa Barbara,2012-04,1
+544,Santa Barbara,2012-05,4
+545,Santa Barbara,2012-06,7
+546,Santa Barbara,2012-07,3
+547,Santa Barbara,2012-08,2
+548,Santa Barbara,2012-09,5
+549,Santa Barbara,2012-10,6
+550,Santa Barbara,2012-11,8
+551,Santa Barbara,2012-12,3
+552,Santa Barbara,2013-01,4
+553,Santa Barbara,2013-02,2
+554,Santa Barbara,2013-03,8
+555,Santa Barbara,2013-04,4
+556,Santa Barbara,2013-05,5
+557,Santa Barbara,2013-06,6
+558,Santa Barbara,2013-07,1
+559,Santa Barbara,2013-08,4
+560,Santa Barbara,2013-09,3
+561,Santa Barbara,2013-10,2
+562,Santa Barbara,2013-11,2
+563,Santa Barbara,2013-12,0
+564,Santa Barbara,2014-01,2
+565,Santa Barbara,2014-02,1
+566,Santa Barbara,2014-03,0
+567,Santa Barbara,2014-04,0
+568,Santa Barbara,2014-05,1
+569,Santa Barbara,2014-06,1
+570,Santa Barbara,2014-07,0
+571,Santa Barbara,2014-08,0
+572,Santa Barbara,2014-09,3
+573,Santa Barbara,2014-10,4
+574,Santa Barbara,2014-11,6
+575,Santa Barbara,2014-12,0
+576,Santa Barbara,2015-01,5
+577,Santa Barbara,2015-02,0
+578,Santa Barbara,2015-03,0
+579,Santa Barbara,2015-04,0
+580,Santa Barbara,2015-05,0
+581,Santa Barbara,2015-06,0
+582,Santa Barbara,2015-07,0
+583,Santa Barbara,2015-08,2
+584,Santa Barbara,2015-09,1
+585,Santa Barbara,2015-10,0
+586,Santa Barbara,2015-11,0
+587,Santa Barbara,2015-12,0
+588,Santa Barbara,2016-01,0
+589,Santa Barbara,2016-02,0
+590,Santa Barbara,2016-03,0
+591,Santa Barbara,2016-04,0
+592,Santa Barbara,2016-05,0
+593,Santa Barbara,2016-06,0
+594,Santa Barbara,2016-07,0
+595,Santa Barbara,2016-08,1
+596,Santa Barbara,2016-09,0
+597,Santa Barbara,2016-10,0
+598,Santa Barbara,2016-11,1
+599,Santa Barbara,2016-12,0
+600,Santa Barbara,2017-01,1
+601,Santa Barbara,2017-02,0
+602,Santa Barbara,2017-03,0
+603,Santa Barbara,2017-04,0
+604,Santa Barbara,2017-05,0
+605,Santa Barbara,2017-06,0
+606,Santa Barbara,2017-07,0
+607,Santa Barbara,2017-08,0
+608,Santa Barbara,2017-09,0
+609,Santa Barbara,2017-10,3
+610,Santa Barbara,2017-11,0
+611,Santa Barbara,2017-12,0
+612,Santa Barbara,2018-01,0
+613,Santa Barbara,2018-02,0
+614,Santa Barbara,2018-03,0
+615,Santa Barbara,2018-04,0
+616,Santa Barbara,2018-05,0
+617,Santa Barbara,2018-06,0
+618,Santa Barbara,2018-07,0
+619,Santa Barbara,2018-08,0
+620,Santa Barbara,2018-09,0
+621,Santa Barbara,2018-10,0
+622,Santa Barbara,2018-11,0
+623,Santa Barbara,2018-12,0
+624,Santa Barbara,2019-01,0
+625,Santa Barbara,2019-02,0
+626,Santa Barbara,2019-03,0
+627,Santa Barbara,2019-04,0
+628,Santa Barbara,2019-05,1
+629,Santa Barbara,2019-06,1
+630,Santa Barbara,2019-07,0
+631,Santa Barbara,2019-08,0
+632,Santa Barbara,2019-09,0
+633,Santa Barbara,2019-10,2
+634,Santa Barbara,2019-11,0
+635,Santa Barbara,2019-12,0
+636,Santa Barbara,2020-01,0
+637,Santa Barbara,2020-02,0
+638,Santa Barbara,2020-03,0
+639,Santa Barbara,2020-04,0
+640,Santa Barbara,2020-05,0
+641,Santa Barbara,2020-06,0
+642,Santa Barbara,2020-07,0
+643,Santa Barbara,2020-08,0
+644,Santa Barbara,2020-09,0
+645,Santa Barbara,2020-10,0
+646,Santa Barbara,2020-11,0
+647,Santa Barbara,2020-12,0
+648,Santa Barbara,2021-01,0
+649,Santa Barbara,2021-02,0
+650,Santa Barbara,2021-03,0
+651,Santa Barbara,2021-04,0
+652,Santa Barbara,2021-05,0
+653,Santa Barbara,2021-06,0
+654,Santa Barbara,2021-07,0
+655,Santa Barbara,2021-08,0
+656,Santa Barbara,2021-09,0
+657,Santa Barbara,2021-10,0
+658,Santa Barbara,2021-11,0
+659,Santa Barbara,2021-12,0
+660,Glenn,2011-01,0
+661,Glenn,2011-02,0
+662,Glenn,2011-03,0
+663,Glenn,2011-04,0
+664,Glenn,2011-05,0
+665,Glenn,2011-06,0
+666,Glenn,2011-07,0
+667,Glenn,2011-08,0
+668,Glenn,2011-09,0
+669,Glenn,2011-10,0
+670,Glenn,2011-11,0
+671,Glenn,2011-12,0
+672,Glenn,2012-01,0
+673,Glenn,2012-02,0
+674,Glenn,2012-03,0
+675,Glenn,2012-04,0
+676,Glenn,2012-05,0
+677,Glenn,2012-06,0
+678,Glenn,2012-07,0
+679,Glenn,2012-08,0
+680,Glenn,2012-09,0
+681,Glenn,2012-10,0
+682,Glenn,2012-11,0
+683,Glenn,2012-12,0
+684,Glenn,2013-01,0
+685,Glenn,2013-02,0
+686,Glenn,2013-03,0
+687,Glenn,2013-04,0
+688,Glenn,2013-05,0
+689,Glenn,2013-06,0
+690,Glenn,2013-07,0
+691,Glenn,2013-08,0
+692,Glenn,2013-09,0
+693,Glenn,2013-10,0
+694,Glenn,2013-11,0
+695,Glenn,2013-12,0
+696,Glenn,2014-01,0
+697,Glenn,2014-02,0
+698,Glenn,2014-03,0
+699,Glenn,2014-04,0
+700,Glenn,2014-05,0
+701,Glenn,2014-06,0
+702,Glenn,2014-07,0
+703,Glenn,2014-08,0
+704,Glenn,2014-09,0
+705,Glenn,2014-10,0
+706,Glenn,2014-11,0
+707,Glenn,2014-12,0
+708,Glenn,2015-01,0
+709,Glenn,2015-02,0
+710,Glenn,2015-03,0
+711,Glenn,2015-04,0
+712,Glenn,2015-05,0
+713,Glenn,2015-06,0
+714,Glenn,2015-07,0
+715,Glenn,2015-08,0
+716,Glenn,2015-09,0
+717,Glenn,2015-10,0
+718,Glenn,2015-11,0
+719,Glenn,2015-12,0
+720,Glenn,2016-01,0
+721,Glenn,2016-02,0
+722,Glenn,2016-03,0
+723,Glenn,2016-04,0
+724,Glenn,2016-05,0
+725,Glenn,2016-06,0
+726,Glenn,2016-07,0
+727,Glenn,2016-08,0
+728,Glenn,2016-09,0
+729,Glenn,2016-10,0
+730,Glenn,2016-11,0
+731,Glenn,2016-12,0
+732,Glenn,2017-01,0
+733,Glenn,2017-02,0
+734,Glenn,2017-03,0
+735,Glenn,2017-04,0
+736,Glenn,2017-05,0
+737,Glenn,2017-06,0
+738,Glenn,2017-07,0
+739,Glenn,2017-08,0
+740,Glenn,2017-09,0
+741,Glenn,2017-10,0
+742,Glenn,2017-11,1
+743,Glenn,2017-12,0
+744,Glenn,2018-01,0
+745,Glenn,2018-02,0
+746,Glenn,2018-03,0
+747,Glenn,2018-04,0
+748,Glenn,2018-05,0
+749,Glenn,2018-06,0
+750,Glenn,2018-07,0
+751,Glenn,2018-08,0
+752,Glenn,2018-09,0
+753,Glenn,2018-10,0
+754,Glenn,2018-11,0
+755,Glenn,2018-12,0
+756,Glenn,2019-01,0
+757,Glenn,2019-02,0
+758,Glenn,2019-03,0
+759,Glenn,2019-04,0
+760,Glenn,2019-05,0
+761,Glenn,2019-06,0
+762,Glenn,2019-07,0
+763,Glenn,2019-08,0
+764,Glenn,2019-09,0
+765,Glenn,2019-10,0
+766,Glenn,2019-11,0
+767,Glenn,2019-12,0
+768,Glenn,2020-01,0
+769,Glenn,2020-02,0
+770,Glenn,2020-03,0
+771,Glenn,2020-04,0
+772,Glenn,2020-05,0
+773,Glenn,2020-06,0
+774,Glenn,2020-07,0
+775,Glenn,2020-08,0
+776,Glenn,2020-09,0
+777,Glenn,2020-10,0
+778,Glenn,2020-11,0
+779,Glenn,2020-12,0
+780,Glenn,2021-01,0
+781,Glenn,2021-02,0
+782,Glenn,2021-03,0
+783,Glenn,2021-04,0
+784,Glenn,2021-05,0
+785,Glenn,2021-06,0
+786,Glenn,2021-07,0
+787,Glenn,2021-08,0
+788,Glenn,2021-09,0
+789,Glenn,2021-10,0
+790,Glenn,2021-11,0
+791,Glenn,2021-12,0
+792,Orange,2011-01,0
+793,Orange,2011-02,0
+794,Orange,2011-03,0
+795,Orange,2011-04,1
+796,Orange,2011-05,0
+797,Orange,2011-06,0
+798,Orange,2011-07,0
+799,Orange,2011-08,1
+800,Orange,2011-09,0
+801,Orange,2011-10,1
+802,Orange,2011-11,0
+803,Orange,2011-12,0
+804,Orange,2012-01,0
+805,Orange,2012-02,0
+806,Orange,2012-03,0
+807,Orange,2012-04,0
+808,Orange,2012-05,0
+809,Orange,2012-06,0
+810,Orange,2012-07,0
+811,Orange,2012-08,0
+812,Orange,2012-09,1
+813,Orange,2012-10,0
+814,Orange,2012-11,0
+815,Orange,2012-12,0
+816,Orange,2013-01,4
+817,Orange,2013-02,1
+818,Orange,2013-03,3
+819,Orange,2013-04,0
+820,Orange,2013-05,2
+821,Orange,2013-06,0
+822,Orange,2013-07,0
+823,Orange,2013-08,0
+824,Orange,2013-09,0
+825,Orange,2013-10,0
+826,Orange,2013-11,0
+827,Orange,2013-12,0
+828,Orange,2014-01,0
+829,Orange,2014-02,0
+830,Orange,2014-03,1
+831,Orange,2014-04,0
+832,Orange,2014-05,0
+833,Orange,2014-06,2
+834,Orange,2014-07,0
+835,Orange,2014-08,1
+836,Orange,2014-09,1
+837,Orange,2014-10,1
+838,Orange,2014-11,1
+839,Orange,2014-12,0
+840,Orange,2015-01,0
+841,Orange,2015-02,0
+842,Orange,2015-03,0
+843,Orange,2015-04,0
+844,Orange,2015-05,0
+845,Orange,2015-06,0
+846,Orange,2015-07,0
+847,Orange,2015-08,0
+848,Orange,2015-09,0
+849,Orange,2015-10,0
+850,Orange,2015-11,0
+851,Orange,2015-12,0
+852,Orange,2016-01,0
+853,Orange,2016-02,0
+854,Orange,2016-03,0
+855,Orange,2016-04,0
+856,Orange,2016-05,0
+857,Orange,2016-06,0
+858,Orange,2016-07,0
+859,Orange,2016-08,0
+860,Orange,2016-09,0
+861,Orange,2016-10,0
+862,Orange,2016-11,0
+863,Orange,2016-12,0
+864,Orange,2017-01,0
+865,Orange,2017-02,0
+866,Orange,2017-03,0
+867,Orange,2017-04,0
+868,Orange,2017-05,0
+869,Orange,2017-06,0
+870,Orange,2017-07,0
+871,Orange,2017-08,0
+872,Orange,2017-09,0
+873,Orange,2017-10,0
+874,Orange,2017-11,0
+875,Orange,2017-12,0
+876,Orange,2018-01,1
+877,Orange,2018-02,1
+878,Orange,2018-03,0
+879,Orange,2018-04,3
+880,Orange,2018-05,0
+881,Orange,2018-06,0
+882,Orange,2018-07,1
+883,Orange,2018-08,2
+884,Orange,2018-09,2
+885,Orange,2018-10,1
+886,Orange,2018-11,1
+887,Orange,2018-12,1
+888,Orange,2019-01,1
+889,Orange,2019-02,1
+890,Orange,2019-03,1
+891,Orange,2019-04,1
+892,Orange,2019-05,3
+893,Orange,2019-06,3
+894,Orange,2019-07,2
+895,Orange,2019-08,2
+896,Orange,2019-09,2
+897,Orange,2019-10,2
+898,Orange,2019-11,0
+899,Orange,2019-12,6
+900,Orange,2020-01,0
+901,Orange,2020-02,0
+902,Orange,2020-03,1
+903,Orange,2020-04,3
+904,Orange,2020-05,2
+905,Orange,2020-06,3
+906,Orange,2020-07,2
+907,Orange,2020-08,2
+908,Orange,2020-09,1
+909,Orange,2020-10,5
+910,Orange,2020-11,1
+911,Orange,2020-12,1
+912,Orange,2021-01,0
+913,Orange,2021-02,1
+914,Orange,2021-03,5
+915,Orange,2021-04,3
+916,Orange,2021-05,4
+917,Orange,2021-06,2
+918,Orange,2021-07,4
+919,Orange,2021-08,3
+920,Orange,2021-09,3
+921,Orange,2021-10,2
+922,Orange,2021-11,0
+923,Orange,2021-12,2
+924,Monterey,2011-01,2
+925,Monterey,2011-02,0
+926,Monterey,2011-03,0
+927,Monterey,2011-04,5
+928,Monterey,2011-05,4
+929,Monterey,2011-06,3
+930,Monterey,2011-07,1
+931,Monterey,2011-08,1
+932,Monterey,2011-09,1
+933,Monterey,2011-10,2
+934,Monterey,2011-11,1
+935,Monterey,2011-12,1
+936,Monterey,2012-01,2
+937,Monterey,2012-02,0
+938,Monterey,2012-03,0
+939,Monterey,2012-04,2
+940,Monterey,2012-05,4
+941,Monterey,2012-06,4
+942,Monterey,2012-07,7
+943,Monterey,2012-08,3
+944,Monterey,2012-09,7
+945,Monterey,2012-10,3
+946,Monterey,2012-11,2
+947,Monterey,2012-12,1
+948,Monterey,2013-01,3
+949,Monterey,2013-02,4
+950,Monterey,2013-03,3
+951,Monterey,2013-04,2
+952,Monterey,2013-05,1
+953,Monterey,2013-06,2
+954,Monterey,2013-07,6
+955,Monterey,2013-08,6
+956,Monterey,2013-09,8
+957,Monterey,2013-10,3
+958,Monterey,2013-11,3
+959,Monterey,2013-12,0
+960,Monterey,2014-01,4
+961,Monterey,2014-02,4
+962,Monterey,2014-03,4
+963,Monterey,2014-04,3
+964,Monterey,2014-05,8
+965,Monterey,2014-06,4
+966,Monterey,2014-07,4
+967,Monterey,2014-08,2
+968,Monterey,2014-09,4
+969,Monterey,2014-10,0
+970,Monterey,2014-11,0
+971,Monterey,2014-12,2
+972,Monterey,2015-01,2
+973,Monterey,2015-02,2
+974,Monterey,2015-03,0
+975,Monterey,2015-04,0
+976,Monterey,2015-05,0
+977,Monterey,2015-06,3
+978,Monterey,2015-07,3
+979,Monterey,2015-08,5
+980,Monterey,2015-09,3
+981,Monterey,2015-10,6
+982,Monterey,2015-11,10
+983,Monterey,2015-12,6
+984,Monterey,2016-01,0
+985,Monterey,2016-02,0
+986,Monterey,2016-03,0
+987,Monterey,2016-04,0
+988,Monterey,2016-05,0
+989,Monterey,2016-06,1
+990,Monterey,2016-07,0
+991,Monterey,2016-08,0
+992,Monterey,2016-09,0
+993,Monterey,2016-10,0
+994,Monterey,2016-11,2
+995,Monterey,2016-12,1
+996,Monterey,2017-01,0
+997,Monterey,2017-02,0
+998,Monterey,2017-03,1
+999,Monterey,2017-04,1
+1000,Monterey,2017-05,0
+1001,Monterey,2017-06,0
+1002,Monterey,2017-07,1
+1003,Monterey,2017-08,0
+1004,Monterey,2017-09,1
+1005,Monterey,2017-10,2
+1006,Monterey,2017-11,3
+1007,Monterey,2017-12,1
+1008,Monterey,2018-01,2
+1009,Monterey,2018-02,0
+1010,Monterey,2018-03,0
+1011,Monterey,2018-04,0
+1012,Monterey,2018-05,1
+1013,Monterey,2018-06,0
+1014,Monterey,2018-07,0
+1015,Monterey,2018-08,0
+1016,Monterey,2018-09,0
+1017,Monterey,2018-10,0
+1018,Monterey,2018-11,2
+1019,Monterey,2018-12,0
+1020,Monterey,2019-01,0
+1021,Monterey,2019-02,2
+1022,Monterey,2019-03,2
+1023,Monterey,2019-04,0
+1024,Monterey,2019-05,0
+1025,Monterey,2019-06,0
+1026,Monterey,2019-07,0
+1027,Monterey,2019-08,0
+1028,Monterey,2019-09,0
+1029,Monterey,2019-10,1
+1030,Monterey,2019-11,0
+1031,Monterey,2019-12,0
+1032,Monterey,2020-01,0
+1033,Monterey,2020-02,0
+1034,Monterey,2020-03,0
+1035,Monterey,2020-04,0
+1036,Monterey,2020-05,0
+1037,Monterey,2020-06,0
+1038,Monterey,2020-07,0
+1039,Monterey,2020-08,0
+1040,Monterey,2020-09,0
+1041,Monterey,2020-10,0
+1042,Monterey,2020-11,0
+1043,Monterey,2020-12,0
+1044,Monterey,2021-01,0
+1045,Monterey,2021-02,1
+1046,Monterey,2021-03,0
+1047,Monterey,2021-04,0
+1048,Monterey,2021-05,0
+1049,Monterey,2021-06,0
+1050,Monterey,2021-07,0
+1051,Monterey,2021-08,0
+1052,Monterey,2021-09,0
+1053,Monterey,2021-10,0
+1054,Monterey,2021-11,0
+1055,Monterey,2021-12,0
+1056,Tulare,2011-01,0
+1057,Tulare,2011-02,0
+1058,Tulare,2011-03,0
+1059,Tulare,2011-04,0
+1060,Tulare,2011-05,0
+1061,Tulare,2011-06,0
+1062,Tulare,2011-07,0
+1063,Tulare,2011-08,0
+1064,Tulare,2011-09,0
+1065,Tulare,2011-10,2
+1066,Tulare,2011-11,0
+1067,Tulare,2011-12,0
+1068,Tulare,2012-01,1
+1069,Tulare,2012-02,0
+1070,Tulare,2012-03,0
+1071,Tulare,2012-04,0
+1072,Tulare,2012-05,0
+1073,Tulare,2012-06,0
+1074,Tulare,2012-07,0
+1075,Tulare,2012-08,0
+1076,Tulare,2012-09,0
+1077,Tulare,2012-10,0
+1078,Tulare,2012-11,0
+1079,Tulare,2012-12,0
+1080,Tulare,2013-01,0
+1081,Tulare,2013-02,0
+1082,Tulare,2013-03,0
+1083,Tulare,2013-04,0
+1084,Tulare,2013-05,0
+1085,Tulare,2013-06,1
+1086,Tulare,2013-07,1
+1087,Tulare,2013-08,0
+1088,Tulare,2013-09,0
+1089,Tulare,2013-10,0
+1090,Tulare,2013-11,1
+1091,Tulare,2013-12,0
+1092,Tulare,2014-01,0
+1093,Tulare,2014-02,0
+1094,Tulare,2014-03,0
+1095,Tulare,2014-04,0
+1096,Tulare,2014-05,0
+1097,Tulare,2014-06,0
+1098,Tulare,2014-07,0
+1099,Tulare,2014-08,0
+1100,Tulare,2014-09,0
+1101,Tulare,2014-10,0
+1102,Tulare,2014-11,0
+1103,Tulare,2014-12,0
+1104,Tulare,2015-01,0
+1105,Tulare,2015-02,0
+1106,Tulare,2015-03,0
+1107,Tulare,2015-04,0
+1108,Tulare,2015-05,0
+1109,Tulare,2015-06,0
+1110,Tulare,2015-07,0
+1111,Tulare,2015-08,0
+1112,Tulare,2015-09,0
+1113,Tulare,2015-10,0
+1114,Tulare,2015-11,0
+1115,Tulare,2015-12,0
+1116,Tulare,2016-01,0
+1117,Tulare,2016-02,0
+1118,Tulare,2016-03,0
+1119,Tulare,2016-04,0
+1120,Tulare,2016-05,0
+1121,Tulare,2016-06,0
+1122,Tulare,2016-07,0
+1123,Tulare,2016-08,0
+1124,Tulare,2016-09,0
+1125,Tulare,2016-10,0
+1126,Tulare,2016-11,0
+1127,Tulare,2016-12,0
+1128,Tulare,2017-01,0
+1129,Tulare,2017-02,0
+1130,Tulare,2017-03,0
+1131,Tulare,2017-04,0
+1132,Tulare,2017-05,0
+1133,Tulare,2017-06,0
+1134,Tulare,2017-07,0
+1135,Tulare,2017-08,0
+1136,Tulare,2017-09,0
+1137,Tulare,2017-10,0
+1138,Tulare,2017-11,0
+1139,Tulare,2017-12,0
+1140,Tulare,2018-01,0
+1141,Tulare,2018-02,0
+1142,Tulare,2018-03,0
+1143,Tulare,2018-04,0
+1144,Tulare,2018-05,0
+1145,Tulare,2018-06,0
+1146,Tulare,2018-07,0
+1147,Tulare,2018-08,0
+1148,Tulare,2018-09,0
+1149,Tulare,2018-10,0
+1150,Tulare,2018-11,0
+1151,Tulare,2018-12,0
+1152,Tulare,2019-01,0
+1153,Tulare,2019-02,0
+1154,Tulare,2019-03,0
+1155,Tulare,2019-04,0
+1156,Tulare,2019-05,0
+1157,Tulare,2019-06,0
+1158,Tulare,2019-07,0
+1159,Tulare,2019-08,0
+1160,Tulare,2019-09,0
+1161,Tulare,2019-10,0
+1162,Tulare,2019-11,0
+1163,Tulare,2019-12,0
+1164,Tulare,2020-01,0
+1165,Tulare,2020-02,0
+1166,Tulare,2020-03,0
+1167,Tulare,2020-04,0
+1168,Tulare,2020-05,0
+1169,Tulare,2020-06,0
+1170,Tulare,2020-07,0
+1171,Tulare,2020-08,0
+1172,Tulare,2020-09,0
+1173,Tulare,2020-10,0
+1174,Tulare,2020-11,0
+1175,Tulare,2020-12,0
+1176,Tulare,2021-01,0
+1177,Tulare,2021-02,0
+1178,Tulare,2021-03,0
+1179,Tulare,2021-04,0
+1180,Tulare,2021-05,0
+1181,Tulare,2021-06,0
+1182,Tulare,2021-07,0
+1183,Tulare,2021-08,0
+1184,Tulare,2021-09,0
+1185,Tulare,2021-10,0
+1186,Tulare,2021-11,0
+1187,Tulare,2021-12,0
+1188,San Luis Obispo,2011-01,0
+1189,San Luis Obispo,2011-02,0
+1190,San Luis Obispo,2011-03,0
+1191,San Luis Obispo,2011-04,0
+1192,San Luis Obispo,2011-05,0
+1193,San Luis Obispo,2011-06,0
+1194,San Luis Obispo,2011-07,0
+1195,San Luis Obispo,2011-08,0
+1196,San Luis Obispo,2011-09,0
+1197,San Luis Obispo,2011-10,0
+1198,San Luis Obispo,2011-11,0
+1199,San Luis Obispo,2011-12,0
+1200,San Luis Obispo,2012-01,0
+1201,San Luis Obispo,2012-02,0
+1202,San Luis Obispo,2012-03,0
+1203,San Luis Obispo,2012-04,0
+1204,San Luis Obispo,2012-05,0
+1205,San Luis Obispo,2012-06,0
+1206,San Luis Obispo,2012-07,0
+1207,San Luis Obispo,2012-08,0
+1208,San Luis Obispo,2012-09,0
+1209,San Luis Obispo,2012-10,0
+1210,San Luis Obispo,2012-11,0
+1211,San Luis Obispo,2012-12,0
+1212,San Luis Obispo,2013-01,0
+1213,San Luis Obispo,2013-02,0
+1214,San Luis Obispo,2013-03,0
+1215,San Luis Obispo,2013-04,0
+1216,San Luis Obispo,2013-05,0
+1217,San Luis Obispo,2013-06,0
+1218,San Luis Obispo,2013-07,0
+1219,San Luis Obispo,2013-08,0
+1220,San Luis Obispo,2013-09,0
+1221,San Luis Obispo,2013-10,0
+1222,San Luis Obispo,2013-11,0
+1223,San Luis Obispo,2013-12,1
+1224,San Luis Obispo,2014-01,0
+1225,San Luis Obispo,2014-02,0
+1226,San Luis Obispo,2014-03,0
+1227,San Luis Obispo,2014-04,0
+1228,San Luis Obispo,2014-05,0
+1229,San Luis Obispo,2014-06,0
+1230,San Luis Obispo,2014-07,0
+1231,San Luis Obispo,2014-08,2
+1232,San Luis Obispo,2014-09,2
+1233,San Luis Obispo,2014-10,5
+1234,San Luis Obispo,2014-11,4
+1235,San Luis Obispo,2014-12,2
+1236,San Luis Obispo,2015-01,0
+1237,San Luis Obispo,2015-02,0
+1238,San Luis Obispo,2015-03,0
+1239,San Luis Obispo,2015-04,0
+1240,San Luis Obispo,2015-05,0
+1241,San Luis Obispo,2015-06,0
+1242,San Luis Obispo,2015-07,0
+1243,San Luis Obispo,2015-08,0
+1244,San Luis Obispo,2015-09,0
+1245,San Luis Obispo,2015-10,0
+1246,San Luis Obispo,2015-11,0
+1247,San Luis Obispo,2015-12,0
+1248,San Luis Obispo,2016-01,0
+1249,San Luis Obispo,2016-02,0
+1250,San Luis Obispo,2016-03,0
+1251,San Luis Obispo,2016-04,0
+1252,San Luis Obispo,2016-05,0
+1253,San Luis Obispo,2016-06,0
+1254,San Luis Obispo,2016-07,0
+1255,San Luis Obispo,2016-08,0
+1256,San Luis Obispo,2016-09,0
+1257,San Luis Obispo,2016-10,0
+1258,San Luis Obispo,2016-11,0
+1259,San Luis Obispo,2016-12,0
+1260,San Luis Obispo,2017-01,0
+1261,San Luis Obispo,2017-02,0
+1262,San Luis Obispo,2017-03,0
+1263,San Luis Obispo,2017-04,0
+1264,San Luis Obispo,2017-05,0
+1265,San Luis Obispo,2017-06,0
+1266,San Luis Obispo,2017-07,0
+1267,San Luis Obispo,2017-08,0
+1268,San Luis Obispo,2017-09,0
+1269,San Luis Obispo,2017-10,0
+1270,San Luis Obispo,2017-11,0
+1271,San Luis Obispo,2017-12,0
+1272,San Luis Obispo,2018-01,0
+1273,San Luis Obispo,2018-02,0
+1274,San Luis Obispo,2018-03,1
+1275,San Luis Obispo,2018-04,1
+1276,San Luis Obispo,2018-05,0
+1277,San Luis Obispo,2018-06,0
+1278,San Luis Obispo,2018-07,0
+1279,San Luis Obispo,2018-08,0
+1280,San Luis Obispo,2018-09,0
+1281,San Luis Obispo,2018-10,0
+1282,San Luis Obispo,2018-11,0
+1283,San Luis Obispo,2018-12,0
+1284,San Luis Obispo,2019-01,0
+1285,San Luis Obispo,2019-02,0
+1286,San Luis Obispo,2019-03,0
+1287,San Luis Obispo,2019-04,0
+1288,San Luis Obispo,2019-05,0
+1289,San Luis Obispo,2019-06,0
+1290,San Luis Obispo,2019-07,0
+1291,San Luis Obispo,2019-08,0
+1292,San Luis Obispo,2019-09,0
+1293,San Luis Obispo,2019-10,0
+1294,San Luis Obispo,2019-11,0
+1295,San Luis Obispo,2019-12,0
+1296,San Luis Obispo,2020-01,0
+1297,San Luis Obispo,2020-02,0
+1298,San Luis Obispo,2020-03,0
+1299,San Luis Obispo,2020-04,0
+1300,San Luis Obispo,2020-05,0
+1301,San Luis Obispo,2020-06,0
+1302,San Luis Obispo,2020-07,0
+1303,San Luis Obispo,2020-08,0
+1304,San Luis Obispo,2020-09,0
+1305,San Luis Obispo,2020-10,0
+1306,San Luis Obispo,2020-11,0
+1307,San Luis Obispo,2020-12,0
+1308,San Luis Obispo,2021-01,0
+1309,San Luis Obispo,2021-02,0
+1310,San Luis Obispo,2021-03,0
+1311,San Luis Obispo,2021-04,0
+1312,San Luis Obispo,2021-05,0
+1313,San Luis Obispo,2021-06,0
+1314,San Luis Obispo,2021-07,0
+1315,San Luis Obispo,2021-08,0
+1316,San Luis Obispo,2021-09,0
+1317,San Luis Obispo,2021-10,0
+1318,San Luis Obispo,2021-11,0
+1319,San Luis Obispo,2021-12,0
+1320,Ventura,2011-01,2
+1321,Ventura,2011-02,2
+1322,Ventura,2011-03,2
+1323,Ventura,2011-04,5
+1324,Ventura,2011-05,5
+1325,Ventura,2011-06,1
+1326,Ventura,2011-07,2
+1327,Ventura,2011-08,4
+1328,Ventura,2011-09,3
+1329,Ventura,2011-10,3
+1330,Ventura,2011-11,2
+1331,Ventura,2011-12,1
+1332,Ventura,2012-01,5
+1333,Ventura,2012-02,3
+1334,Ventura,2012-03,4
+1335,Ventura,2012-04,6
+1336,Ventura,2012-05,6
+1337,Ventura,2012-06,7
+1338,Ventura,2012-07,3
+1339,Ventura,2012-08,4
+1340,Ventura,2012-09,1
+1341,Ventura,2012-10,3
+1342,Ventura,2012-11,4
+1343,Ventura,2012-12,2
+1344,Ventura,2013-01,2
+1345,Ventura,2013-02,2
+1346,Ventura,2013-03,2
+1347,Ventura,2013-04,3
+1348,Ventura,2013-05,6
+1349,Ventura,2013-06,5
+1350,Ventura,2013-07,6
+1351,Ventura,2013-08,6
+1352,Ventura,2013-09,2
+1353,Ventura,2013-10,4
+1354,Ventura,2013-11,1
+1355,Ventura,2013-12,2
+1356,Ventura,2014-01,3
+1357,Ventura,2014-02,6
+1358,Ventura,2014-03,2
+1359,Ventura,2014-04,1
+1360,Ventura,2014-05,3
+1361,Ventura,2014-06,7
+1362,Ventura,2014-07,6
+1363,Ventura,2014-08,2
+1364,Ventura,2014-09,1
+1365,Ventura,2014-10,4
+1366,Ventura,2014-11,0
+1367,Ventura,2014-12,0
+1368,Ventura,2015-01,2
+1369,Ventura,2015-02,0
+1370,Ventura,2015-03,0
+1371,Ventura,2015-04,0
+1372,Ventura,2015-05,0
+1373,Ventura,2015-06,0
+1374,Ventura,2015-07,0
+1375,Ventura,2015-08,0
+1376,Ventura,2015-09,1
+1377,Ventura,2015-10,1
+1378,Ventura,2015-11,0
+1379,Ventura,2015-12,0
+1380,Ventura,2016-01,0
+1381,Ventura,2016-02,0
+1382,Ventura,2016-03,0
+1383,Ventura,2016-04,0
+1384,Ventura,2016-05,1
+1385,Ventura,2016-06,0
+1386,Ventura,2016-07,1
+1387,Ventura,2016-08,1
+1388,Ventura,2016-09,0
+1389,Ventura,2016-10,1
+1390,Ventura,2016-11,1
+1391,Ventura,2016-12,0
+1392,Ventura,2017-01,1
+1393,Ventura,2017-02,0
+1394,Ventura,2017-03,2
+1395,Ventura,2017-04,0
+1396,Ventura,2017-05,1
+1397,Ventura,2017-06,0
+1398,Ventura,2017-07,0
+1399,Ventura,2017-08,0
+1400,Ventura,2017-09,0
+1401,Ventura,2017-10,2
+1402,Ventura,2017-11,0
+1403,Ventura,2017-12,1
+1404,Ventura,2018-01,1
+1405,Ventura,2018-02,0
+1406,Ventura,2018-03,0
+1407,Ventura,2018-04,1
+1408,Ventura,2018-05,1
+1409,Ventura,2018-06,1
+1410,Ventura,2018-07,0
+1411,Ventura,2018-08,0
+1412,Ventura,2018-09,1
+1413,Ventura,2018-10,0
+1414,Ventura,2018-11,1
+1415,Ventura,2018-12,1
+1416,Ventura,2019-01,0
+1417,Ventura,2019-02,0
+1418,Ventura,2019-03,0
+1419,Ventura,2019-04,0
+1420,Ventura,2019-05,0
+1421,Ventura,2019-06,1
+1422,Ventura,2019-07,1
+1423,Ventura,2019-08,1
+1424,Ventura,2019-09,0
+1425,Ventura,2019-10,1
+1426,Ventura,2019-11,0
+1427,Ventura,2019-12,0
+1428,Ventura,2020-01,0
+1429,Ventura,2020-02,0
+1430,Ventura,2020-03,1
+1431,Ventura,2020-04,0
+1432,Ventura,2020-05,1
+1433,Ventura,2020-06,0
+1434,Ventura,2020-07,0
+1435,Ventura,2020-08,0
+1436,Ventura,2020-09,0
+1437,Ventura,2020-10,0
+1438,Ventura,2020-11,0
+1439,Ventura,2020-12,0
+1440,Ventura,2021-01,1
+1441,Ventura,2021-02,0
+1442,Ventura,2021-03,0
+1443,Ventura,2021-04,0
+1444,Ventura,2021-05,0
+1445,Ventura,2021-06,0
+1446,Ventura,2021-07,0
+1447,Ventura,2021-08,0
+1448,Ventura,2021-09,0
+1449,Ventura,2021-10,0
+1450,Ventura,2021-11,0
+1451,Ventura,2021-12,0
+1452,Los Angeles Offshore,2011-01,2
+1453,Los Angeles Offshore,2011-02,3
+1454,Los Angeles Offshore,2011-03,2
+1455,Los Angeles Offshore,2011-04,4
+1456,Los Angeles Offshore,2011-05,3
+1457,Los Angeles Offshore,2011-06,3
+1458,Los Angeles Offshore,2011-07,3
+1459,Los Angeles Offshore,2011-08,4
+1460,Los Angeles Offshore,2011-09,1
+1461,Los Angeles Offshore,2011-10,1
+1462,Los Angeles Offshore,2011-11,2
+1463,Los Angeles Offshore,2011-12,1
+1464,Los Angeles Offshore,2012-01,4
+1465,Los Angeles Offshore,2012-02,2
+1466,Los Angeles Offshore,2012-03,1
+1467,Los Angeles Offshore,2012-04,1
+1468,Los Angeles Offshore,2012-05,1
+1469,Los Angeles Offshore,2012-06,0
+1470,Los Angeles Offshore,2012-07,3
+1471,Los Angeles Offshore,2012-08,1
+1472,Los Angeles Offshore,2012-09,2
+1473,Los Angeles Offshore,2012-10,3
+1474,Los Angeles Offshore,2012-11,2
+1475,Los Angeles Offshore,2012-12,3
+1476,Los Angeles Offshore,2013-01,2
+1477,Los Angeles Offshore,2013-02,3
+1478,Los Angeles Offshore,2013-03,3
+1479,Los Angeles Offshore,2013-04,0
+1480,Los Angeles Offshore,2013-05,1
+1481,Los Angeles Offshore,2013-06,1
+1482,Los Angeles Offshore,2013-07,0
+1483,Los Angeles Offshore,2013-08,2
+1484,Los Angeles Offshore,2013-09,4
+1485,Los Angeles Offshore,2013-10,3
+1486,Los Angeles Offshore,2013-11,2
+1487,Los Angeles Offshore,2013-12,2
+1488,Los Angeles Offshore,2014-01,4
+1489,Los Angeles Offshore,2014-02,2
+1490,Los Angeles Offshore,2014-03,2
+1491,Los Angeles Offshore,2014-04,1
+1492,Los Angeles Offshore,2014-05,0
+1493,Los Angeles Offshore,2014-06,1
+1494,Los Angeles Offshore,2014-07,4
+1495,Los Angeles Offshore,2014-08,2
+1496,Los Angeles Offshore,2014-09,2
+1497,Los Angeles Offshore,2014-10,4
+1498,Los Angeles Offshore,2014-11,0
+1499,Los Angeles Offshore,2014-12,0
+1500,Los Angeles Offshore,2015-01,0
+1501,Los Angeles Offshore,2015-02,0
+1502,Los Angeles Offshore,2015-03,3
+1503,Los Angeles Offshore,2015-04,0
+1504,Los Angeles Offshore,2015-05,0
+1505,Los Angeles Offshore,2015-06,0
+1506,Los Angeles Offshore,2015-07,0
+1507,Los Angeles Offshore,2015-08,1
+1508,Los Angeles Offshore,2015-09,1
+1509,Los Angeles Offshore,2015-10,0
+1510,Los Angeles Offshore,2015-11,0
+1511,Los Angeles Offshore,2015-12,1
+1512,Los Angeles Offshore,2016-01,0
+1513,Los Angeles Offshore,2016-02,0
+1514,Los Angeles Offshore,2016-03,0
+1515,Los Angeles Offshore,2016-04,0
+1516,Los Angeles Offshore,2016-05,0
+1517,Los Angeles Offshore,2016-06,0
+1518,Los Angeles Offshore,2016-07,0
+1519,Los Angeles Offshore,2016-08,0
+1520,Los Angeles Offshore,2016-09,1
+1521,Los Angeles Offshore,2016-10,0
+1522,Los Angeles Offshore,2016-11,0
+1523,Los Angeles Offshore,2016-12,2
+1524,Los Angeles Offshore,2017-01,0
+1525,Los Angeles Offshore,2017-02,1
+1526,Los Angeles Offshore,2017-03,0
+1527,Los Angeles Offshore,2017-04,1
+1528,Los Angeles Offshore,2017-05,0
+1529,Los Angeles Offshore,2017-06,1
+1530,Los Angeles Offshore,2017-07,0
+1531,Los Angeles Offshore,2017-08,1
+1532,Los Angeles Offshore,2017-09,2
+1533,Los Angeles Offshore,2017-10,0
+1534,Los Angeles Offshore,2017-11,2
+1535,Los Angeles Offshore,2017-12,1
+1536,Los Angeles Offshore,2018-01,1
+1537,Los Angeles Offshore,2018-02,0
+1538,Los Angeles Offshore,2018-03,1
+1539,Los Angeles Offshore,2018-04,5
+1540,Los Angeles Offshore,2018-05,5
+1541,Los Angeles Offshore,2018-06,3
+1542,Los Angeles Offshore,2018-07,2
+1543,Los Angeles Offshore,2018-08,0
+1544,Los Angeles Offshore,2018-09,3
+1545,Los Angeles Offshore,2018-10,1
+1546,Los Angeles Offshore,2018-11,2
+1547,Los Angeles Offshore,2018-12,1
+1548,Los Angeles Offshore,2019-01,1
+1549,Los Angeles Offshore,2019-02,1
+1550,Los Angeles Offshore,2019-03,1
+1551,Los Angeles Offshore,2019-04,2
+1552,Los Angeles Offshore,2019-05,4
+1553,Los Angeles Offshore,2019-06,0
+1554,Los Angeles Offshore,2019-07,3
+1555,Los Angeles Offshore,2019-08,5
+1556,Los Angeles Offshore,2019-09,1
+1557,Los Angeles Offshore,2019-10,0
+1558,Los Angeles Offshore,2019-11,2
+1559,Los Angeles Offshore,2019-12,2
+1560,Los Angeles Offshore,2020-01,2
+1561,Los Angeles Offshore,2020-02,0
+1562,Los Angeles Offshore,2020-03,1
+1563,Los Angeles Offshore,2020-04,0
+1564,Los Angeles Offshore,2020-05,0
+1565,Los Angeles Offshore,2020-06,0
+1566,Los Angeles Offshore,2020-07,0
+1567,Los Angeles Offshore,2020-08,0
+1568,Los Angeles Offshore,2020-09,0
+1569,Los Angeles Offshore,2020-10,0
+1570,Los Angeles Offshore,2020-11,0
+1571,Los Angeles Offshore,2020-12,0
+1572,Los Angeles Offshore,2021-01,0
+1573,Los Angeles Offshore,2021-02,0
+1574,Los Angeles Offshore,2021-03,0
+1575,Los Angeles Offshore,2021-04,0
+1576,Los Angeles Offshore,2021-05,0
+1577,Los Angeles Offshore,2021-06,0
+1578,Los Angeles Offshore,2021-07,0
+1579,Los Angeles Offshore,2021-08,0
+1580,Los Angeles Offshore,2021-09,0
+1581,Los Angeles Offshore,2021-10,0
+1582,Los Angeles Offshore,2021-11,0
+1583,Los Angeles Offshore,2021-12,0
+1584,Orange Offshore,2011-01,0
+1585,Orange Offshore,2011-02,0
+1586,Orange Offshore,2011-03,0
+1587,Orange Offshore,2011-04,0
+1588,Orange Offshore,2011-05,0
+1589,Orange Offshore,2011-06,0
+1590,Orange Offshore,2011-07,0
+1591,Orange Offshore,2011-08,0
+1592,Orange Offshore,2011-09,0
+1593,Orange Offshore,2011-10,0
+1594,Orange Offshore,2011-11,0
+1595,Orange Offshore,2011-12,0
+1596,Orange Offshore,2012-01,0
+1597,Orange Offshore,2012-02,0
+1598,Orange Offshore,2012-03,0
+1599,Orange Offshore,2012-04,0
+1600,Orange Offshore,2012-05,0
+1601,Orange Offshore,2012-06,0
+1602,Orange Offshore,2012-07,0
+1603,Orange Offshore,2012-08,0
+1604,Orange Offshore,2012-09,0
+1605,Orange Offshore,2012-10,1
+1606,Orange Offshore,2012-11,0
+1607,Orange Offshore,2012-12,0
+1608,Orange Offshore,2013-01,0
+1609,Orange Offshore,2013-02,0
+1610,Orange Offshore,2013-03,0
+1611,Orange Offshore,2013-04,0
+1612,Orange Offshore,2013-05,0
+1613,Orange Offshore,2013-06,0
+1614,Orange Offshore,2013-07,0
+1615,Orange Offshore,2013-08,0
+1616,Orange Offshore,2013-09,1
+1617,Orange Offshore,2013-10,1
+1618,Orange Offshore,2013-11,0
+1619,Orange Offshore,2013-12,0
+1620,Orange Offshore,2014-01,1
+1621,Orange Offshore,2014-02,0
+1622,Orange Offshore,2014-03,1
+1623,Orange Offshore,2014-04,0
+1624,Orange Offshore,2014-05,0
+1625,Orange Offshore,2014-06,1
+1626,Orange Offshore,2014-07,0
+1627,Orange Offshore,2014-08,1
+1628,Orange Offshore,2014-09,0
+1629,Orange Offshore,2014-10,0
+1630,Orange Offshore,2014-11,0
+1631,Orange Offshore,2014-12,1
+1632,Orange Offshore,2015-01,0
+1633,Orange Offshore,2015-02,0
+1634,Orange Offshore,2015-03,0
+1635,Orange Offshore,2015-04,0
+1636,Orange Offshore,2015-05,0
+1637,Orange Offshore,2015-06,0
+1638,Orange Offshore,2015-07,0
+1639,Orange Offshore,2015-08,0
+1640,Orange Offshore,2015-09,0
+1641,Orange Offshore,2015-10,0
+1642,Orange Offshore,2015-11,0
+1643,Orange Offshore,2015-12,0
+1644,Orange Offshore,2016-01,0
+1645,Orange Offshore,2016-02,0
+1646,Orange Offshore,2016-03,0
+1647,Orange Offshore,2016-04,0
+1648,Orange Offshore,2016-05,0
+1649,Orange Offshore,2016-06,0
+1650,Orange Offshore,2016-07,0
+1651,Orange Offshore,2016-08,0
+1652,Orange Offshore,2016-09,0
+1653,Orange Offshore,2016-10,0
+1654,Orange Offshore,2016-11,0
+1655,Orange Offshore,2016-12,0
+1656,Orange Offshore,2017-01,0
+1657,Orange Offshore,2017-02,0
+1658,Orange Offshore,2017-03,0
+1659,Orange Offshore,2017-04,0
+1660,Orange Offshore,2017-05,0
+1661,Orange Offshore,2017-06,0
+1662,Orange Offshore,2017-07,0
+1663,Orange Offshore,2017-08,0
+1664,Orange Offshore,2017-09,0
+1665,Orange Offshore,2017-10,0
+1666,Orange Offshore,2017-11,0
+1667,Orange Offshore,2017-12,0
+1668,Orange Offshore,2018-01,0
+1669,Orange Offshore,2018-02,0
+1670,Orange Offshore,2018-03,0
+1671,Orange Offshore,2018-04,0
+1672,Orange Offshore,2018-05,1
+1673,Orange Offshore,2018-06,1
+1674,Orange Offshore,2018-07,1
+1675,Orange Offshore,2018-08,0
+1676,Orange Offshore,2018-09,1
+1677,Orange Offshore,2018-10,0
+1678,Orange Offshore,2018-11,0
+1679,Orange Offshore,2018-12,0
+1680,Orange Offshore,2019-01,0
+1681,Orange Offshore,2019-02,0
+1682,Orange Offshore,2019-03,0
+1683,Orange Offshore,2019-04,0
+1684,Orange Offshore,2019-05,3
+1685,Orange Offshore,2019-06,1
+1686,Orange Offshore,2019-07,0
+1687,Orange Offshore,2019-08,0
+1688,Orange Offshore,2019-09,0
+1689,Orange Offshore,2019-10,0
+1690,Orange Offshore,2019-11,0
+1691,Orange Offshore,2019-12,0
+1692,Orange Offshore,2020-01,0
+1693,Orange Offshore,2020-02,0
+1694,Orange Offshore,2020-03,0
+1695,Orange Offshore,2020-04,0
+1696,Orange Offshore,2020-05,0
+1697,Orange Offshore,2020-06,0
+1698,Orange Offshore,2020-07,0
+1699,Orange Offshore,2020-08,0
+1700,Orange Offshore,2020-09,0
+1701,Orange Offshore,2020-10,0
+1702,Orange Offshore,2020-11,0
+1703,Orange Offshore,2020-12,0
+1704,Orange Offshore,2021-01,0
+1705,Orange Offshore,2021-02,0
+1706,Orange Offshore,2021-03,0
+1707,Orange Offshore,2021-04,0
+1708,Orange Offshore,2021-05,0
+1709,Orange Offshore,2021-06,0
+1710,Orange Offshore,2021-07,0
+1711,Orange Offshore,2021-08,0
+1712,Orange Offshore,2021-09,0
+1713,Orange Offshore,2021-10,0
+1714,Orange Offshore,2021-11,0
+1715,Orange Offshore,2021-12,0
+1716,Los Angeles,2011-01,7
+1717,Los Angeles,2011-02,6
+1718,Los Angeles,2011-03,6
+1719,Los Angeles,2011-04,6
+1720,Los Angeles,2011-05,3
+1721,Los Angeles,2011-06,8
+1722,Los Angeles,2011-07,6
+1723,Los Angeles,2011-08,13
+1724,Los Angeles,2011-09,11
+1725,Los Angeles,2011-10,14
+1726,Los Angeles,2011-11,11
+1727,Los Angeles,2011-12,9
+1728,Los Angeles,2012-01,7
+1729,Los Angeles,2012-02,5
+1730,Los Angeles,2012-03,10
+1731,Los Angeles,2012-04,13
+1732,Los Angeles,2012-05,8
+1733,Los Angeles,2012-06,10
+1734,Los Angeles,2012-07,7
+1735,Los Angeles,2012-08,10
+1736,Los Angeles,2012-09,9
+1737,Los Angeles,2012-10,10
+1738,Los Angeles,2012-11,9
+1739,Los Angeles,2012-12,8
+1740,Los Angeles,2013-01,15
+1741,Los Angeles,2013-02,6
+1742,Los Angeles,2013-03,11
+1743,Los Angeles,2013-04,12
+1744,Los Angeles,2013-05,11
+1745,Los Angeles,2013-06,10
+1746,Los Angeles,2013-07,16
+1747,Los Angeles,2013-08,13
+1748,Los Angeles,2013-09,6
+1749,Los Angeles,2013-10,8
+1750,Los Angeles,2013-11,5
+1751,Los Angeles,2013-12,7
+1752,Los Angeles,2014-01,5
+1753,Los Angeles,2014-02,7
+1754,Los Angeles,2014-03,10
+1755,Los Angeles,2014-04,16
+1756,Los Angeles,2014-05,13
+1757,Los Angeles,2014-06,10
+1758,Los Angeles,2014-07,13
+1759,Los Angeles,2014-08,9
+1760,Los Angeles,2014-09,10
+1761,Los Angeles,2014-10,5
+1762,Los Angeles,2014-11,2
+1763,Los Angeles,2014-12,0
+1764,Los Angeles,2015-01,0
+1765,Los Angeles,2015-02,2
+1766,Los Angeles,2015-03,0
+1767,Los Angeles,2015-04,0
+1768,Los Angeles,2015-05,0
+1769,Los Angeles,2015-06,0
+1770,Los Angeles,2015-07,0
+1771,Los Angeles,2015-08,0
+1772,Los Angeles,2015-09,0
+1773,Los Angeles,2015-10,0
+1774,Los Angeles,2015-11,0
+1775,Los Angeles,2015-12,0
+1776,Los Angeles,2016-01,0
+1777,Los Angeles,2016-02,0
+1778,Los Angeles,2016-03,0
+1779,Los Angeles,2016-04,0
+1780,Los Angeles,2016-05,0
+1781,Los Angeles,2016-06,0
+1782,Los Angeles,2016-07,0
+1783,Los Angeles,2016-08,0
+1784,Los Angeles,2016-09,0
+1785,Los Angeles,2016-10,0
+1786,Los Angeles,2016-11,0
+1787,Los Angeles,2016-12,0
+1788,Los Angeles,2017-01,0
+1789,Los Angeles,2017-02,0
+1790,Los Angeles,2017-03,0
+1791,Los Angeles,2017-04,0
+1792,Los Angeles,2017-05,0
+1793,Los Angeles,2017-06,0
+1794,Los Angeles,2017-07,0
+1795,Los Angeles,2017-08,0
+1796,Los Angeles,2017-09,1
+1797,Los Angeles,2017-10,0
+1798,Los Angeles,2017-11,1
+1799,Los Angeles,2017-12,0
+1800,Los Angeles,2018-01,0
+1801,Los Angeles,2018-02,0
+1802,Los Angeles,2018-03,2
+1803,Los Angeles,2018-04,3
+1804,Los Angeles,2018-05,2
+1805,Los Angeles,2018-06,7
+1806,Los Angeles,2018-07,6
+1807,Los Angeles,2018-08,4
+1808,Los Angeles,2018-09,5
+1809,Los Angeles,2018-10,9
+1810,Los Angeles,2018-11,2
+1811,Los Angeles,2018-12,6
+1812,Los Angeles,2019-01,1
+1813,Los Angeles,2019-02,0
+1814,Los Angeles,2019-03,2
+1815,Los Angeles,2019-04,4
+1816,Los Angeles,2019-05,2
+1817,Los Angeles,2019-06,1
+1818,Los Angeles,2019-07,1
+1819,Los Angeles,2019-08,1
+1820,Los Angeles,2019-09,0
+1821,Los Angeles,2019-10,0
+1822,Los Angeles,2019-11,0
+1823,Los Angeles,2019-12,3
+1824,Los Angeles,2020-01,0
+1825,Los Angeles,2020-02,1
+1826,Los Angeles,2020-03,0
+1827,Los Angeles,2020-04,0
+1828,Los Angeles,2020-05,0
+1829,Los Angeles,2020-06,2
+1830,Los Angeles,2020-07,2
+1831,Los Angeles,2020-08,1
+1832,Los Angeles,2020-09,2
+1833,Los Angeles,2020-10,2
+1834,Los Angeles,2020-11,1
+1835,Los Angeles,2020-12,0
+1836,Los Angeles,2021-01,0
+1837,Los Angeles,2021-02,0
+1838,Los Angeles,2021-03,0
+1839,Los Angeles,2021-04,0
+1840,Los Angeles,2021-05,2
+1841,Los Angeles,2021-06,0
+1842,Los Angeles,2021-07,0
+1843,Los Angeles,2021-08,0
+1844,Los Angeles,2021-09,0
+1845,Los Angeles,2021-10,0
+1846,Los Angeles,2021-11,0
+1847,Los Angeles,2021-12,0
+1848,Contra Costa,2011-01,0
+1849,Contra Costa,2011-02,0
+1850,Contra Costa,2011-03,0
+1851,Contra Costa,2011-04,0
+1852,Contra Costa,2011-05,0
+1853,Contra Costa,2011-06,0
+1854,Contra Costa,2011-07,0
+1855,Contra Costa,2011-08,0
+1856,Contra Costa,2011-09,0
+1857,Contra Costa,2011-10,0
+1858,Contra Costa,2011-11,0
+1859,Contra Costa,2011-12,0
+1860,Contra Costa,2012-01,0
+1861,Contra Costa,2012-02,0
+1862,Contra Costa,2012-03,0
+1863,Contra Costa,2012-04,0
+1864,Contra Costa,2012-05,0
+1865,Contra Costa,2012-06,0
+1866,Contra Costa,2012-07,0
+1867,Contra Costa,2012-08,0
+1868,Contra Costa,2012-09,0
+1869,Contra Costa,2012-10,0
+1870,Contra Costa,2012-11,0
+1871,Contra Costa,2012-12,0
+1872,Contra Costa,2013-01,0
+1873,Contra Costa,2013-02,0
+1874,Contra Costa,2013-03,0
+1875,Contra Costa,2013-04,1
+1876,Contra Costa,2013-05,0
+1877,Contra Costa,2013-06,0
+1878,Contra Costa,2013-07,0
+1879,Contra Costa,2013-08,0
+1880,Contra Costa,2013-09,0
+1881,Contra Costa,2013-10,0
+1882,Contra Costa,2013-11,0
+1883,Contra Costa,2013-12,0
+1884,Contra Costa,2014-01,0
+1885,Contra Costa,2014-02,0
+1886,Contra Costa,2014-03,0
+1887,Contra Costa,2014-04,0
+1888,Contra Costa,2014-05,0
+1889,Contra Costa,2014-06,0
+1890,Contra Costa,2014-07,0
+1891,Contra Costa,2014-08,0
+1892,Contra Costa,2014-09,0
+1893,Contra Costa,2014-10,0
+1894,Contra Costa,2014-11,0
+1895,Contra Costa,2014-12,0
+1896,Contra Costa,2015-01,0
+1897,Contra Costa,2015-02,0
+1898,Contra Costa,2015-03,0
+1899,Contra Costa,2015-04,0
+1900,Contra Costa,2015-05,0
+1901,Contra Costa,2015-06,0
+1902,Contra Costa,2015-07,0
+1903,Contra Costa,2015-08,0
+1904,Contra Costa,2015-09,0
+1905,Contra Costa,2015-10,0
+1906,Contra Costa,2015-11,0
+1907,Contra Costa,2015-12,0
+1908,Contra Costa,2016-01,0
+1909,Contra Costa,2016-02,0
+1910,Contra Costa,2016-03,0
+1911,Contra Costa,2016-04,0
+1912,Contra Costa,2016-05,0
+1913,Contra Costa,2016-06,0
+1914,Contra Costa,2016-07,0
+1915,Contra Costa,2016-08,0
+1916,Contra Costa,2016-09,0
+1917,Contra Costa,2016-10,0
+1918,Contra Costa,2016-11,0
+1919,Contra Costa,2016-12,0
+1920,Contra Costa,2017-01,0
+1921,Contra Costa,2017-02,0
+1922,Contra Costa,2017-03,0
+1923,Contra Costa,2017-04,0
+1924,Contra Costa,2017-05,0
+1925,Contra Costa,2017-06,0
+1926,Contra Costa,2017-07,0
+1927,Contra Costa,2017-08,0
+1928,Contra Costa,2017-09,0
+1929,Contra Costa,2017-10,0
+1930,Contra Costa,2017-11,0
+1931,Contra Costa,2017-12,0
+1932,Contra Costa,2018-01,0
+1933,Contra Costa,2018-02,0
+1934,Contra Costa,2018-03,0
+1935,Contra Costa,2018-04,0
+1936,Contra Costa,2018-05,0
+1937,Contra Costa,2018-06,0
+1938,Contra Costa,2018-07,0
+1939,Contra Costa,2018-08,1
+1940,Contra Costa,2018-09,0
+1941,Contra Costa,2018-10,0
+1942,Contra Costa,2018-11,0
+1943,Contra Costa,2018-12,1
+1944,Contra Costa,2019-01,0
+1945,Contra Costa,2019-02,0
+1946,Contra Costa,2019-03,0
+1947,Contra Costa,2019-04,0
+1948,Contra Costa,2019-05,0
+1949,Contra Costa,2019-06,0
+1950,Contra Costa,2019-07,0
+1951,Contra Costa,2019-08,0
+1952,Contra Costa,2019-09,0
+1953,Contra Costa,2019-10,0
+1954,Contra Costa,2019-11,0
+1955,Contra Costa,2019-12,1
+1956,Contra Costa,2020-01,0
+1957,Contra Costa,2020-02,0
+1958,Contra Costa,2020-03,0
+1959,Contra Costa,2020-04,0
+1960,Contra Costa,2020-05,0
+1961,Contra Costa,2020-06,0
+1962,Contra Costa,2020-07,0
+1963,Contra Costa,2020-08,0
+1964,Contra Costa,2020-09,0
+1965,Contra Costa,2020-10,0
+1966,Contra Costa,2020-11,0
+1967,Contra Costa,2020-12,0
+1968,Contra Costa,2021-01,0
+1969,Contra Costa,2021-02,0
+1970,Contra Costa,2021-03,0
+1971,Contra Costa,2021-04,0
+1972,Contra Costa,2021-05,0
+1973,Contra Costa,2021-06,0
+1974,Contra Costa,2021-07,0
+1975,Contra Costa,2021-08,0
+1976,Contra Costa,2021-09,0
+1977,Contra Costa,2021-10,0
+1978,Contra Costa,2021-11,0
+1979,Contra Costa,2021-12,0
+1980,Santa Barbara Offshore,2011-01,0
+1981,Santa Barbara Offshore,2011-02,0
+1982,Santa Barbara Offshore,2011-03,0
+1983,Santa Barbara Offshore,2011-04,0
+1984,Santa Barbara Offshore,2011-05,0
+1985,Santa Barbara Offshore,2011-06,0
+1986,Santa Barbara Offshore,2011-07,0
+1987,Santa Barbara Offshore,2011-08,0
+1988,Santa Barbara Offshore,2011-09,0
+1989,Santa Barbara Offshore,2011-10,0
+1990,Santa Barbara Offshore,2011-11,0
+1991,Santa Barbara Offshore,2011-12,0
+1992,Santa Barbara Offshore,2012-01,0
+1993,Santa Barbara Offshore,2012-02,0
+1994,Santa Barbara Offshore,2012-03,0
+1995,Santa Barbara Offshore,2012-04,0
+1996,Santa Barbara Offshore,2012-05,0
+1997,Santa Barbara Offshore,2012-06,0
+1998,Santa Barbara Offshore,2012-07,1
+1999,Santa Barbara Offshore,2012-08,0
+2000,Santa Barbara Offshore,2012-09,0
+2001,Santa Barbara Offshore,2012-10,0
+2002,Santa Barbara Offshore,2012-11,0
+2003,Santa Barbara Offshore,2012-12,0
+2004,Santa Barbara Offshore,2013-01,0
+2005,Santa Barbara Offshore,2013-02,0
+2006,Santa Barbara Offshore,2013-03,0
+2007,Santa Barbara Offshore,2013-04,0
+2008,Santa Barbara Offshore,2013-05,0
+2009,Santa Barbara Offshore,2013-06,0
+2010,Santa Barbara Offshore,2013-07,0
+2011,Santa Barbara Offshore,2013-08,0
+2012,Santa Barbara Offshore,2013-09,0
+2013,Santa Barbara Offshore,2013-10,0
+2014,Santa Barbara Offshore,2013-11,0
+2015,Santa Barbara Offshore,2013-12,0
+2016,Santa Barbara Offshore,2014-01,0
+2017,Santa Barbara Offshore,2014-02,0
+2018,Santa Barbara Offshore,2014-03,0
+2019,Santa Barbara Offshore,2014-04,0
+2020,Santa Barbara Offshore,2014-05,0
+2021,Santa Barbara Offshore,2014-06,0
+2022,Santa Barbara Offshore,2014-07,0
+2023,Santa Barbara Offshore,2014-08,0
+2024,Santa Barbara Offshore,2014-09,0
+2025,Santa Barbara Offshore,2014-10,0
+2026,Santa Barbara Offshore,2014-11,0
+2027,Santa Barbara Offshore,2014-12,0
+2028,Santa Barbara Offshore,2015-01,0
+2029,Santa Barbara Offshore,2015-02,0
+2030,Santa Barbara Offshore,2015-03,0
+2031,Santa Barbara Offshore,2015-04,0
+2032,Santa Barbara Offshore,2015-05,0
+2033,Santa Barbara Offshore,2015-06,0
+2034,Santa Barbara Offshore,2015-07,0
+2035,Santa Barbara Offshore,2015-08,0
+2036,Santa Barbara Offshore,2015-09,0
+2037,Santa Barbara Offshore,2015-10,0
+2038,Santa Barbara Offshore,2015-11,0
+2039,Santa Barbara Offshore,2015-12,0
+2040,Santa Barbara Offshore,2016-01,0
+2041,Santa Barbara Offshore,2016-02,0
+2042,Santa Barbara Offshore,2016-03,0
+2043,Santa Barbara Offshore,2016-04,0
+2044,Santa Barbara Offshore,2016-05,0
+2045,Santa Barbara Offshore,2016-06,0
+2046,Santa Barbara Offshore,2016-07,0
+2047,Santa Barbara Offshore,2016-08,0
+2048,Santa Barbara Offshore,2016-09,0
+2049,Santa Barbara Offshore,2016-10,0
+2050,Santa Barbara Offshore,2016-11,0
+2051,Santa Barbara Offshore,2016-12,0
+2052,Santa Barbara Offshore,2017-01,0
+2053,Santa Barbara Offshore,2017-02,0
+2054,Santa Barbara Offshore,2017-03,0
+2055,Santa Barbara Offshore,2017-04,0
+2056,Santa Barbara Offshore,2017-05,0
+2057,Santa Barbara Offshore,2017-06,0
+2058,Santa Barbara Offshore,2017-07,0
+2059,Santa Barbara Offshore,2017-08,0
+2060,Santa Barbara Offshore,2017-09,0
+2061,Santa Barbara Offshore,2017-10,0
+2062,Santa Barbara Offshore,2017-11,0
+2063,Santa Barbara Offshore,2017-12,0
+2064,Santa Barbara Offshore,2018-01,0
+2065,Santa Barbara Offshore,2018-02,0
+2066,Santa Barbara Offshore,2018-03,0
+2067,Santa Barbara Offshore,2018-04,0
+2068,Santa Barbara Offshore,2018-05,0
+2069,Santa Barbara Offshore,2018-06,0
+2070,Santa Barbara Offshore,2018-07,0
+2071,Santa Barbara Offshore,2018-08,0
+2072,Santa Barbara Offshore,2018-09,0
+2073,Santa Barbara Offshore,2018-10,0
+2074,Santa Barbara Offshore,2018-11,0
+2075,Santa Barbara Offshore,2018-12,0
+2076,Santa Barbara Offshore,2019-01,0
+2077,Santa Barbara Offshore,2019-02,0
+2078,Santa Barbara Offshore,2019-03,0
+2079,Santa Barbara Offshore,2019-04,0
+2080,Santa Barbara Offshore,2019-05,0
+2081,Santa Barbara Offshore,2019-06,0
+2082,Santa Barbara Offshore,2019-07,0
+2083,Santa Barbara Offshore,2019-08,0
+2084,Santa Barbara Offshore,2019-09,0
+2085,Santa Barbara Offshore,2019-10,0
+2086,Santa Barbara Offshore,2019-11,0
+2087,Santa Barbara Offshore,2019-12,0
+2088,Santa Barbara Offshore,2020-01,0
+2089,Santa Barbara Offshore,2020-02,0
+2090,Santa Barbara Offshore,2020-03,0
+2091,Santa Barbara Offshore,2020-04,0
+2092,Santa Barbara Offshore,2020-05,0
+2093,Santa Barbara Offshore,2020-06,0
+2094,Santa Barbara Offshore,2020-07,0
+2095,Santa Barbara Offshore,2020-08,0
+2096,Santa Barbara Offshore,2020-09,0
+2097,Santa Barbara Offshore,2020-10,0
+2098,Santa Barbara Offshore,2020-11,2
+2099,Santa Barbara Offshore,2020-12,0
+2100,Santa Barbara Offshore,2021-01,0
+2101,Santa Barbara Offshore,2021-02,0
+2102,Santa Barbara Offshore,2021-03,0
+2103,Santa Barbara Offshore,2021-04,0
+2104,Santa Barbara Offshore,2021-05,0
+2105,Santa Barbara Offshore,2021-06,0
+2106,Santa Barbara Offshore,2021-07,0
+2107,Santa Barbara Offshore,2021-08,0
+2108,Santa Barbara Offshore,2021-09,0
+2109,Santa Barbara Offshore,2021-10,0
+2110,Santa Barbara Offshore,2021-11,0
+2111,Santa Barbara Offshore,2021-12,0
+2112,Santa Clara,2011-01,0
+2113,Santa Clara,2011-02,0
+2114,Santa Clara,2011-03,1
+2115,Santa Clara,2011-04,0
+2116,Santa Clara,2011-05,0
+2117,Santa Clara,2011-06,0
+2118,Santa Clara,2011-07,0
+2119,Santa Clara,2011-08,0
+2120,Santa Clara,2011-09,0
+2121,Santa Clara,2011-10,0
+2122,Santa Clara,2011-11,0
+2123,Santa Clara,2011-12,0
+2124,Santa Clara,2012-01,0
+2125,Santa Clara,2012-02,0
+2126,Santa Clara,2012-03,0
+2127,Santa Clara,2012-04,0
+2128,Santa Clara,2012-05,0
+2129,Santa Clara,2012-06,0
+2130,Santa Clara,2012-07,0
+2131,Santa Clara,2012-08,0
+2132,Santa Clara,2012-09,0
+2133,Santa Clara,2012-10,0
+2134,Santa Clara,2012-11,0
+2135,Santa Clara,2012-12,0
+2136,Santa Clara,2013-01,0
+2137,Santa Clara,2013-02,0
+2138,Santa Clara,2013-03,0
+2139,Santa Clara,2013-04,0
+2140,Santa Clara,2013-05,0
+2141,Santa Clara,2013-06,0
+2142,Santa Clara,2013-07,0
+2143,Santa Clara,2013-08,0
+2144,Santa Clara,2013-09,0
+2145,Santa Clara,2013-10,0
+2146,Santa Clara,2013-11,0
+2147,Santa Clara,2013-12,0
+2148,Santa Clara,2014-01,0
+2149,Santa Clara,2014-02,0
+2150,Santa Clara,2014-03,0
+2151,Santa Clara,2014-04,0
+2152,Santa Clara,2014-05,0
+2153,Santa Clara,2014-06,0
+2154,Santa Clara,2014-07,0
+2155,Santa Clara,2014-08,0
+2156,Santa Clara,2014-09,0
+2157,Santa Clara,2014-10,0
+2158,Santa Clara,2014-11,0
+2159,Santa Clara,2014-12,0
+2160,Santa Clara,2015-01,0
+2161,Santa Clara,2015-02,0
+2162,Santa Clara,2015-03,0
+2163,Santa Clara,2015-04,0
+2164,Santa Clara,2015-05,0
+2165,Santa Clara,2015-06,0
+2166,Santa Clara,2015-07,0
+2167,Santa Clara,2015-08,0
+2168,Santa Clara,2015-09,0
+2169,Santa Clara,2015-10,0
+2170,Santa Clara,2015-11,0
+2171,Santa Clara,2015-12,0
+2172,Santa Clara,2016-01,0
+2173,Santa Clara,2016-02,0
+2174,Santa Clara,2016-03,0
+2175,Santa Clara,2016-04,0
+2176,Santa Clara,2016-05,0
+2177,Santa Clara,2016-06,0
+2178,Santa Clara,2016-07,0
+2179,Santa Clara,2016-08,0
+2180,Santa Clara,2016-09,0
+2181,Santa Clara,2016-10,0
+2182,Santa Clara,2016-11,0
+2183,Santa Clara,2016-12,0
+2184,Santa Clara,2017-01,0
+2185,Santa Clara,2017-02,0
+2186,Santa Clara,2017-03,0
+2187,Santa Clara,2017-04,0
+2188,Santa Clara,2017-05,0
+2189,Santa Clara,2017-06,0
+2190,Santa Clara,2017-07,0
+2191,Santa Clara,2017-08,0
+2192,Santa Clara,2017-09,0
+2193,Santa Clara,2017-10,0
+2194,Santa Clara,2017-11,0
+2195,Santa Clara,2017-12,0
+2196,Santa Clara,2018-01,0
+2197,Santa Clara,2018-02,0
+2198,Santa Clara,2018-03,0
+2199,Santa Clara,2018-04,0
+2200,Santa Clara,2018-05,0
+2201,Santa Clara,2018-06,0
+2202,Santa Clara,2018-07,0
+2203,Santa Clara,2018-08,0
+2204,Santa Clara,2018-09,0
+2205,Santa Clara,2018-10,0
+2206,Santa Clara,2018-11,0
+2207,Santa Clara,2018-12,0
+2208,Santa Clara,2019-01,0
+2209,Santa Clara,2019-02,0
+2210,Santa Clara,2019-03,0
+2211,Santa Clara,2019-04,0
+2212,Santa Clara,2019-05,0
+2213,Santa Clara,2019-06,0
+2214,Santa Clara,2019-07,0
+2215,Santa Clara,2019-08,0
+2216,Santa Clara,2019-09,0
+2217,Santa Clara,2019-10,0
+2218,Santa Clara,2019-11,0
+2219,Santa Clara,2019-12,0
+2220,Santa Clara,2020-01,0
+2221,Santa Clara,2020-02,0
+2222,Santa Clara,2020-03,0
+2223,Santa Clara,2020-04,0
+2224,Santa Clara,2020-05,0
+2225,Santa Clara,2020-06,0
+2226,Santa Clara,2020-07,0
+2227,Santa Clara,2020-08,0
+2228,Santa Clara,2020-09,0
+2229,Santa Clara,2020-10,0
+2230,Santa Clara,2020-11,0
+2231,Santa Clara,2020-12,0
+2232,Santa Clara,2021-01,0
+2233,Santa Clara,2021-02,0
+2234,Santa Clara,2021-03,0
+2235,Santa Clara,2021-04,0
+2236,Santa Clara,2021-05,0
+2237,Santa Clara,2021-06,0
+2238,Santa Clara,2021-07,0
+2239,Santa Clara,2021-08,0
+2240,Santa Clara,2021-09,0
+2241,Santa Clara,2021-10,0
+2242,Santa Clara,2021-11,0
+2243,Santa Clara,2021-12,0
