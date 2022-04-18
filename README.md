@@ -1,3 +1,5 @@
+![Alt Text](makapaka_logo.gif)
+
 # Predict-House-prices-in-major-California-counties
 
 #### Members:
