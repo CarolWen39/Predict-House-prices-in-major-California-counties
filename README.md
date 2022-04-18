@@ -1,5 +1,10 @@
 # Predict-House-prices-in-major-California-counties
 
+#### Members:
+- Wenhao Li(wli67054@usc.edu),
+- Mengsha Wen(mengshaw@usc.edu),
+- Qinyang Fang(qinyangf@usc.edu)
+
 #### Features
 The project aims to provide predictions a fair estimate of how much houses are worth based on the surrounding enviroment conditions. The features we used are shown below.
 1) Gas well
