@@ -177,12 +177,12 @@ elif selected == 'EDA':
     st.text("")
 
     st.markdown("### PairPlot")
-    image1 = Image.open('pairplot.png')
+    image1 = Image.open('UI/pairplot.png')
     st.image(image1, width=800)
     st.text("")
 
     st.markdown("### HeatMap")
-    image2 = Image.open('heatmap.png')
+    image2 = Image.open('UI/heatmap.png')
     st.image(image2, width=800)
     st.text("")
 
