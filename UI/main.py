@@ -124,7 +124,9 @@ with st.sidebar:
         ##### Wenhao Li wli67054@usc.edu
         """)
 if selected == 'GitHub':
-    webbrowser.open_new_tab(github_url)
+    #webbrowser.open_new_tab(github_url)
+    link = '[GitHub](http://github.com)'
+    st.markdown(link, unsafe_allow_html=True)
 
 elif selected == 'EDA':
     st.markdown(
