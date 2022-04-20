@@ -7,9 +7,9 @@ import pandas as pd
 from PIL import Image
 import plotly.express as px
 import base64
-
-# github_url = 'https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties'
-github_url = 'https://www.google.com/'
+ 
+github_url = '[GitHub](https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties)'#'https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties'
+# github_url = 'https://www.google.com/'
 
 st.set_page_config(page_title="Team Makapaka", page_icon="random", layout="centered", initial_sidebar_state="auto")
 data = pd.read_csv('UI/data.csv')
@@ -124,9 +124,9 @@ with st.sidebar:
         ##### Wenhao Li wli67054@usc.edu
         """)
 if selected == 'GitHub':
-    #webbrowser.open_new_tab(github_url)
-    link = '[GitHub](http://github.com)'
-    st.markdown(link, unsafe_allow_html=True)
+    webbrowser.open_new_tab(github_url)
+    #link = '[GitHub](http://github.com)'
+    #st.markdown(link, unsafe_allow_html=True)
 
 elif selected == 'EDA':
     st.markdown(
