@@ -8,7 +8,7 @@ from PIL import Image
 import plotly.express as px
 import base64
  
-github_url = '[GitHub](https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties)'#'https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties'
+
 # github_url = 'https://www.google.com/'
 
 st.set_page_config(page_title="Team Makapaka", page_icon="random", layout="centered", initial_sidebar_state="auto")
@@ -124,6 +124,7 @@ with st.sidebar:
         ##### Wenhao Li wli67054@usc.edu
         """)
 if selected == 'GitHub':
+    github_url = 'https://github.com/CarolWen39/Predict-House-prices-in-major-California-counties'
     webbrowser.open_new_tab(github_url)
     #link = '[GitHub](http://github.com)'
     #st.markdown(link, unsafe_allow_html=True)
